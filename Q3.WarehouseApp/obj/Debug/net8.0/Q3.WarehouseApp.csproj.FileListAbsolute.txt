@@ -1,0 +1,15 @@
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q3.WarehouseApp\bin\Debug\net8.0\Q3.WarehouseApp.exe
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q3.WarehouseApp\bin\Debug\net8.0\Q3.WarehouseApp.deps.json
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q3.WarehouseApp\bin\Debug\net8.0\Q3.WarehouseApp.runtimeconfig.json
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q3.WarehouseApp\bin\Debug\net8.0\Q3.WarehouseApp.dll
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q3.WarehouseApp\bin\Debug\net8.0\Q3.WarehouseApp.pdb
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q3.WarehouseApp\obj\Debug\net8.0\Q3.WarehouseApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q3.WarehouseApp\obj\Debug\net8.0\Q3.WarehouseApp.AssemblyInfoInputs.cache
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q3.WarehouseApp\obj\Debug\net8.0\Q3.WarehouseApp.AssemblyInfo.cs
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q3.WarehouseApp\obj\Debug\net8.0\Q3.WarehouseApp.csproj.CoreCompileInputs.cache
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q3.WarehouseApp\obj\Debug\net8.0\Q3.WarehouseApp.sourcelink.json
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q3.WarehouseApp\obj\Debug\net8.0\Q3.WarehouseApp.dll
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q3.WarehouseApp\obj\Debug\net8.0\refint\Q3.WarehouseApp.dll
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q3.WarehouseApp\obj\Debug\net8.0\Q3.WarehouseApp.pdb
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q3.WarehouseApp\obj\Debug\net8.0\Q3.WarehouseApp.genruntimeconfig.cache
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q3.WarehouseApp\obj\Debug\net8.0\ref\Q3.WarehouseApp.dll

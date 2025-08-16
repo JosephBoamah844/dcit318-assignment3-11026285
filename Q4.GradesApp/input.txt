@@ -1,0 +1,6 @@
+101,Alice Smith,84
+102,Kwame Mensah,73
+103,Abena Owusu,91
+104,John Doe,48
+105,Bad Score,NotANumber
+106,Missing Only Two Fields
