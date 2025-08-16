@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Q5.InventoryApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71b1750cd1600b2e7017b2d7417ddef2159edc16")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2617684a60aa98ebf359b5d7b6815ad71d005518")]
 [assembly: System.Reflection.AssemblyProductAttribute("Q5.InventoryApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Q5.InventoryApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

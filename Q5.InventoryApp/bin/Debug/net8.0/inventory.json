@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Name": "Notebook",
+    "Quantity": 50,
+    "DateAdded": "2025-08-16T03:28:16.5830522+00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Pen",
+    "Quantity": 200,
+    "DateAdded": "2025-08-16T03:28:16.5970956+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Stapler",
+    "Quantity": 20,
+    "DateAdded": "2025-08-16T03:28:16.5971023+00:00"
+  },
+  {
+    "Id": 4,
+    "Name": "Marker",
+    "Quantity": 75,
+    "DateAdded": "2025-08-16T03:28:16.5971313+00:00"
+  },
+  {
+    "Id": 5,
+    "Name": "Envelopes",
+    "Quantity": 300,
+    "DateAdded": "2025-08-16T03:28:16.5971319+00:00"
+  }
+]
