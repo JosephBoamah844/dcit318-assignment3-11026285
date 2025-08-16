@@ -1,0 +1,15 @@
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q4.GradesApp\bin\Debug\net8.0\Q4.GradesApp.exe
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q4.GradesApp\bin\Debug\net8.0\Q4.GradesApp.deps.json
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q4.GradesApp\bin\Debug\net8.0\Q4.GradesApp.runtimeconfig.json
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q4.GradesApp\bin\Debug\net8.0\Q4.GradesApp.dll
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q4.GradesApp\bin\Debug\net8.0\Q4.GradesApp.pdb
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q4.GradesApp\obj\Debug\net8.0\Q4.GradesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q4.GradesApp\obj\Debug\net8.0\Q4.GradesApp.AssemblyInfoInputs.cache
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q4.GradesApp\obj\Debug\net8.0\Q4.GradesApp.AssemblyInfo.cs
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q4.GradesApp\obj\Debug\net8.0\Q4.GradesApp.csproj.CoreCompileInputs.cache
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q4.GradesApp\obj\Debug\net8.0\Q4.GradesApp.sourcelink.json
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q4.GradesApp\obj\Debug\net8.0\Q4.GradesApp.dll
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q4.GradesApp\obj\Debug\net8.0\refint\Q4.GradesApp.dll
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q4.GradesApp\obj\Debug\net8.0\Q4.GradesApp.pdb
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q4.GradesApp\obj\Debug\net8.0\Q4.GradesApp.genruntimeconfig.cache
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q4.GradesApp\obj\Debug\net8.0\ref\Q4.GradesApp.dll
