@@ -1,0 +1,15 @@
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q1.FinanceApp\bin\Debug\net8.0\Q1.FinanceApp.exe
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q1.FinanceApp\bin\Debug\net8.0\Q1.FinanceApp.deps.json
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q1.FinanceApp\bin\Debug\net8.0\Q1.FinanceApp.runtimeconfig.json
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q1.FinanceApp\bin\Debug\net8.0\Q1.FinanceApp.dll
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q1.FinanceApp\bin\Debug\net8.0\Q1.FinanceApp.pdb
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q1.FinanceApp\obj\Debug\net8.0\Q1.FinanceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q1.FinanceApp\obj\Debug\net8.0\Q1.FinanceApp.AssemblyInfoInputs.cache
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q1.FinanceApp\obj\Debug\net8.0\Q1.FinanceApp.AssemblyInfo.cs
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q1.FinanceApp\obj\Debug\net8.0\Q1.FinanceApp.csproj.CoreCompileInputs.cache
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q1.FinanceApp\obj\Debug\net8.0\Q1.FinanceApp.sourcelink.json
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q1.FinanceApp\obj\Debug\net8.0\Q1.FinanceApp.dll
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q1.FinanceApp\obj\Debug\net8.0\refint\Q1.FinanceApp.dll
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q1.FinanceApp\obj\Debug\net8.0\Q1.FinanceApp.pdb
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q1.FinanceApp\obj\Debug\net8.0\Q1.FinanceApp.genruntimeconfig.cache
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q1.FinanceApp\obj\Debug\net8.0\ref\Q1.FinanceApp.dll
