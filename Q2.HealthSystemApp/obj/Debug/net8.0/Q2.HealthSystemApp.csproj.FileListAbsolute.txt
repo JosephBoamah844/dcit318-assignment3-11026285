@@ -1,0 +1,15 @@
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q2.HealthSystemApp\bin\Debug\net8.0\Q2.HealthSystemApp.exe
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q2.HealthSystemApp\bin\Debug\net8.0\Q2.HealthSystemApp.deps.json
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q2.HealthSystemApp\bin\Debug\net8.0\Q2.HealthSystemApp.runtimeconfig.json
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q2.HealthSystemApp\bin\Debug\net8.0\Q2.HealthSystemApp.dll
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q2.HealthSystemApp\bin\Debug\net8.0\Q2.HealthSystemApp.pdb
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q2.HealthSystemApp\obj\Debug\net8.0\Q2.HealthSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q2.HealthSystemApp\obj\Debug\net8.0\Q2.HealthSystemApp.AssemblyInfoInputs.cache
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q2.HealthSystemApp\obj\Debug\net8.0\Q2.HealthSystemApp.AssemblyInfo.cs
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q2.HealthSystemApp\obj\Debug\net8.0\Q2.HealthSystemApp.csproj.CoreCompileInputs.cache
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q2.HealthSystemApp\obj\Debug\net8.0\Q2.HealthSystemApp.sourcelink.json
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q2.HealthSystemApp\obj\Debug\net8.0\Q2.HealthSystemApp.dll
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q2.HealthSystemApp\obj\Debug\net8.0\refint\Q2.HealthSystemApp.dll
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q2.HealthSystemApp\obj\Debug\net8.0\Q2.HealthSystemApp.pdb
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q2.HealthSystemApp\obj\Debug\net8.0\Q2.HealthSystemApp.genruntimeconfig.cache
+C:\Users\joey\Desktop\dcit318-assignment3-11026285\Q2.HealthSystemApp\obj\Debug\net8.0\ref\Q2.HealthSystemApp.dll

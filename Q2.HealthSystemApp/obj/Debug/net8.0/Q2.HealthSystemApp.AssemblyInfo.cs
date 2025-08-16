@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Q2.HealthSystemApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71b1750cd1600b2e7017b2d7417ddef2159edc16")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c215d7853fa750e075c10771d7367025281a51c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Q2.HealthSystemApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Q2.HealthSystemApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
